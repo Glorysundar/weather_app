@@ -1,0 +1,23 @@
+header{
+    color: red;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    padding-right: 15px;
+}
+
+input{
+    margin-top: 20px;
+}
+
+footer{
+    border-top:1px black solid ;
+    margin-top: 16px;
+    color: gray
+}
+
+button{
+    cursor: pointer;
+}
